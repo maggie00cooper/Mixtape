@@ -1,0 +1,35 @@
+    body{
+        background-color: lightblue;
+    }
+
+    img{
+        width:95%;
+    }
+    #top{
+        text-align: center;
+        color: blue;
+        font-family: futura, sans-serif;
+    }
+
+    h1{text-align: center;
+      color: violet;
+      font-family: signpainter, black;
+      font-size: 900%;
+    }
+
+     h2, h3{text-align: center;
+              color: purple;
+              font-size: 350%
+    }
+
+    a{color: purple;
+
+    }
+
+    li{line-height: 1.5em;
+
+    }
+
+    a:hover{color: pink;}
+
+    p{text-align: center;}
