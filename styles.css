@@ -1,9 +1,12 @@
     body{
-        background-color: lightblue;
+        background-color: lavender;
     }
 
     img{
         width:95%;
+        align-content: center;
+        align-items: center;
+        align-self: center;
     }
 
     #top{
