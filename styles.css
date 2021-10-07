@@ -15,7 +15,7 @@
     h1{text-align: center;
       color: violet;
       font-family: signpainter, black;
-      font-size: 900%;
+      font-size: 1000%;
     }
 
      h2, h3{text-align: center;
@@ -30,6 +30,7 @@
 
     li{line-height: 1.5em;
       text-align: center;
+      font-size: 80%;
 
     }
 
